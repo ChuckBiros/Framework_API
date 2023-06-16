@@ -1,0 +1,21 @@
+# Dependency directories
+/node_modules
+
+# Environment file
+.env
+
+# Logs
+/logs
+
+# Build output
+/dist
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Miscellaneous
+.DS_Store
+
+package-lock.json
